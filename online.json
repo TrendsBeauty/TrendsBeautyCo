@@ -1,5 +1,4 @@
 {
-  "abcPCMVersion": "0",
   "adByBanned": [
     "photo.editor.collage.banned",
     "adByFANs.adByFANs.adByFANsadByFANs"
@@ -117,7 +116,7 @@
       "name":"Pixel Love 1",
       "feature":"https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/sticker/s001.jpg",
       "link":"https://github.com/TrendsBeauty/TrendsBeautyCo/blob/master/res/sticker/Pixel_Love.zip",
-      "price":"0",
+      "price":"100",
       "size":"16",
       "color":"#FFF",
       "demo":"https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/sticker/s001/"
@@ -127,7 +126,7 @@
       "name":"Pixel Love 2",
       "feature":"https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/sticker/s001.jpg",
       "link":"https://github.com/TrendsBeauty/TrendsBeautyCo/blob/master/res/sticker/Pixel_Love.zip",
-      "price":"0",
+      "price":"2",
       "size":"16",
       "color":"#FF0",
       "demo":"https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/sticker/s001/"
