@@ -104,13 +104,12 @@
   "resSticker": [
     {
       "id":"s001",
-      "name":"8 Bit game",
-      "feature":"link here",
+      "name":"Pixel Love",
+      "feature":"https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/sticker/s001.jpg",
       "link":"",
       "price":"0",
       "size":"16",
-      "color":"#F00"
-      
+      "color":"#F00" 
     }
   ],
   
