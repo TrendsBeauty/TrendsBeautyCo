@@ -98,23 +98,23 @@
       "link":"https://github.com/TrendsBeauty/TrendsBeautyCo/tree/master/res/filter/Christmas/",
       "price":"0",
       "size":"8",
-      "color":"#F00"
+      "color":"#00FF00"
     },
     {
-      "id":"f001",
-      "name":"Christmas",
-      "link":"https://github.com/TrendsBeauty/TrendsBeautyCo/tree/master/res/filter/Christmas/",
+      "id":"f002",
+      "name":"Glitter",
+      "link":"https://github.com/TrendsBeauty/TrendsBeautyCo/tree/master/res/filter/Glitter/",
       "price":"0",
       "size":"8",
-      "color":"#F00"
+      "color":"#FF00FF"
     },
     {
-      "id":"f001",
-      "name":"Christmas",
-      "link":"https://github.com/TrendsBeauty/TrendsBeautyCo/tree/master/res/filter/Christmas/",
+      "id":"f003",
+      "name":"Spooky",
+      "link":"https://github.com/TrendsBeauty/TrendsBeautyCo/tree/master/res/filter/Spooky/",
       "price":"0",
       "size":"8",
-      "color":"#F00"
+      "color":"#FF0000"
     }
   ],
   "resFrames": [
