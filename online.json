@@ -2,8 +2,7 @@
   "AdTypeTips": "default|admob|fan",
 
   "adByBanned": [
-    "trends.beauty.art",
-    "com.id.here.will.be.banned.ad"
+    "com.packate.name.here.will.be.banned.ad"
   ],
 
   "mainAdType": "fan",
