@@ -16,7 +16,9 @@
     "pubName": "PHOTO BEAUTY PLUS",
     "description": "Makeup Camera is a powerful editor that has many amazing effects and filters."
   },
-  "adsCollectionEnable":"false",
+  
+
+  "adsCollectionEnable":"true",
   "adsCollection": [
     {
       "linkUrl": "https://goo.gl/abHMFy",
@@ -34,6 +36,8 @@
       "text": "Makeup Camera 3"
     }
   ],
+
+
   "showEditorBanner": "2",
   "showEditorBannerTip": "0: Hide, 1: Show Banner, 2: Show Smart Banner, other: use default",
   "idAds": [
