@@ -1,11 +1,15 @@
 {
-  "adByBanned": [
-    "photo.editor.collage.banned",
-    "adByFANs.adByFANs.adByFANsadByFANs"
-  ],
   "AdTypeTips": "default|admob|fan",
+
+  "adByBanned": [
+    "trends.beauty.art",
+    "com.id.here.will.be.banned.ad"
+  ],
+
   "mainAdType": "fan",
+
   "homePageAdType": "fan",
+
   "homePageAppAdObject": {
     "appId": "photoBeautyPlus.makeup.camera",
     "appName": "Makeup Camera",
@@ -16,9 +20,8 @@
     "pubName": "PHOTO BEAUTY PLUS",
     "description": "Makeup Camera is a powerful editor that has many amazing effects and filters."
   },
-  
 
-  "adsCollectionEnable":"false",
+  "adsCollectionEnable": "false",
   "adsCollection": [
     {
       "linkUrl": "https://goo.gl/abHMFy",
@@ -37,9 +40,9 @@
     }
   ],
 
-
   "showEditorBanner": "2",
   "showEditorBannerTip": "0: Hide, 1: Show Banner, 2: Show Smart Banner, other: use default",
+
   "idAds": [
     {
       "bannerAdMob": "ca-app-pub-3940256099942544/6300978111",
@@ -82,24 +85,17 @@
       "homePageAdType": "fan",
       "nativeFAN": "847806102058646_847806238725299",
       "packageName": "pcm.collage.maker.sticker.face.filter.selfie.editor"
-    },
-    {
-      "homePageAdType": "fan",
-      "nativeFAN": "1189697907837078_1189698237837045",
-      "packageName": "pcm.art.heart.camera"
-    },
-    {
-      "homePageAdType": "fan",
-      "nativeFAN": "195303771195723_195303934529040",
-      "packageName": "pcm.photo.collage.master.pro"
     }
   ],
+
   "resAd": [
     {}
   ],
+
   "resBackground": [
     {}
   ],
+
   "resFilter": [
     {
       "id": "f001",
@@ -117,6 +113,7 @@
       "size": "7",
       "color": "#FF00FF"
     },
+
     {
       "id": "f003",
       "name": "Spooky",
@@ -126,12 +123,15 @@
       "color": "#FF0000"
     }
   ],
+
   "resFrames": [
     {}
   ],
+
   "resPoster": [
     {}
   ],
+
   "resSticker": [
     {
       "id": "s001",
