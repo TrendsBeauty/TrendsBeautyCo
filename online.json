@@ -38,7 +38,7 @@
       "text": "Makeup Camera 3"
     }
   ],
-  "showAdLable":"false",
+  "showAdLabel":"false",
 
   "showEditorBanner": "2",
   "showEditorBannerTip": "0: Hide, 1: Show Banner, 2: Show Smart Banner, other: use default",
