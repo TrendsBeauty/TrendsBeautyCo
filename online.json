@@ -5,9 +5,9 @@
     "com.packate.name.here.will.be.banned.ad"
   ],
 
-  "mainAdType": "fan",
+  "mainAdType": "admob",
 
-  "homePageAdType": "fan",
+  "homePageAdType": "admob",
 
   "homePageAppAdObject": {
     "appId": "photoBeautyPlus.makeup.camera",
