@@ -40,7 +40,7 @@
   ],
   "showAdLabel":"false",
 
-  "showEditorBanner": "2",
+  "showEditorBanner": "1",
   "showEditorBannerTip": "0: Hide, 1: Show Banner, 2: Show Smart Banner, other: use default",
 
   "idAds": [
