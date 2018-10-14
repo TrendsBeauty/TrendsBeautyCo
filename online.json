@@ -10,9 +10,9 @@
   "homePageAdType": "fan",
 
   "homePageAppAdObject": {
-    "appId": "photoBeautyPlus.makeup.camera",
-    "appName": "Makeup Camera",
-    "appUrl": "https://play.google.com/store/apps/details?id=photoBeautyPlus.makeup.camera",
+    "appId": "tba.selfie.photo.collage.maker",
+    "appName": "Selfie Photo Collage Maker",
+    "appUrl": "https://play.google.com/store/apps/details?id=tba.selfie.photo.collage.maker",
     "featureUrl": "https://raw.githubusercontent.com/premiumphotostudio/storage/master/m03cv.jpeg",
     "iconUrl": "https://lh3.googleusercontent.com/gyQDawrDTq9kbT5ugcvQPj8Tnh8LYGPfP6NsN0z0fUpzNDrNZYFTQMXYoE6DKNKCEms=w300",
     "link": "https://goo.gl/abHMFy",
