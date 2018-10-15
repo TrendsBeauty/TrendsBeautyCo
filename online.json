@@ -78,13 +78,10 @@
       "showEditorBannerTip": "0: Hide, 1: Show Banner, 2: Show Smart Banner, other: use default"
     },
     {
-      "nativeFAN": "1818114414906888_1826416604076669",
-      "packageName": "pcm.rainbow.sticker.filter.camera"
-    },
-    {
-      "homePageAdType": "fan",
-      "nativeFAN": "847806102058646_847806238725299",
-      "packageName": "pcm.collage.maker.sticker.face.filter.selfie.editor"
+      "bannerAdMob": "ca-app-pub-8471481257064175/9712490957",
+      "interstitialAdMob": "ca-app-pub-8471481257064175/6703184231",
+      "rewardedVideoAdMob": "ca-app-pub-8471481257064175/5881057159",
+      "packageName": "tba.christmas.photo.frames_and_sticker"
     }
   ],
 
