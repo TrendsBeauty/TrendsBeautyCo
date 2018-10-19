@@ -82,6 +82,12 @@
       "interstitialAdMob": "ca-app-pub-8471481257064175/6703184231",
       "rewardedVideoAdMob": "ca-app-pub-8471481257064175/5881057159",
       "packageName": "tba.christmas.photo.frames_and_sticker"
+    },
+    {
+      "bannerAdMob": "ca-app-pub-8471481257064175/8060228439",
+      "interstitialAdMob": "ca-app-pub-8471481257064175/8775093041",
+      "rewardedVideoAdMob": "ca-app-pub-8471481257064175/5597716623",
+      "packageName": "tba.halloween.photo.editor.scary.mask"
     }
   ],
 
