@@ -28,6 +28,12 @@
   		"key":"http://bit.ly/TrendsArtMini"
   	},
   	{
+  		"title":"Fire on Photo",
+  		"subTitle":"Filter",
+  		"photo":"https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/filter/Fire/cover",
+  		"key":"f004"	
+  	},
+  	{
   		"title":"Christmas",
   		"subTitle":"Filter",
   		"photo":"https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/filter/Christmas/cover",
@@ -131,7 +137,6 @@
       "size": "7",
       "color": "#FF00FF"
     },
-
     {
       "id": "f003",
       "name": "Spooky",
@@ -139,6 +144,14 @@
       "price": "0",
       "size": "9",
       "color": "#FF0000"
+    },
+    {
+      "id": "f004",
+      "name": "Fire",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/filter/Fire/",
+      "price": "0",
+      "size": "14",
+      "color": "#FFFFFF"
     }
   ],
 
