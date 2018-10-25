@@ -38,6 +38,12 @@
   		"subTitle":"Filter",
   		"photo":"https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/filter/Christmas/cover",
   		"key":"f001"	
+  	},
+  	{
+  		"title":"Star on Sky",
+  		"subTitle":"Filter",
+  		"photo":"https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/filter/Star/cover",
+  		"key":"f005"	
   	}
   ],
 
@@ -149,6 +155,14 @@
       "id": "f004",
       "name": "Fire",
       "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/filter/Fire/",
+      "price": "0",
+      "size": "14",
+      "color": "#FFFFFF"
+    },
+    {
+      "id": "f005",
+      "name": "Star",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/filter/Star/",
       "price": "0",
       "size": "14",
       "color": "#FFFFFF"
