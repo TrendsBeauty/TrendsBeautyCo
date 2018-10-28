@@ -206,6 +206,48 @@
       "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/sticker/Winter_label/",
       "price": "0",
       "size": "24"
+    },
+    {
+      "id": "s005",
+      "name": "Alphabet",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/sticker/Alphabet/",
+      "price": "0",
+      "size": "27"
+    },
+    {
+      "id": "s006",
+      "name": "Animal_face",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/sticker/Animal_face/",
+      "price": "0",
+      "size": "37"
+    },
+    {
+      "id": "s007",
+      "name": "Baby",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/sticker/Baby/",
+      "price": "0",
+      "size": "50"
+    },
+    {
+      "id": "s008",
+      "name": "Beautiful_girl",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/sticker/Beautiful_girl/",
+      "price": "0",
+      "size": "24"
+    },
+    {
+      "id": "s009",
+      "name": "Birthday_party",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/sticker/Birthday_party/",
+      "price": "0",
+      "size": "30"
+    },
+    {
+      "id": "s010",
+      "name": "Black",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/sticker/Black/",
+      "price": "0",
+      "size": "56"
     }
   ]
 }
