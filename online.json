@@ -180,33 +180,11 @@
   "resSticker": [
     {
       "id": "s001",
-      "name": "Pixel Love",
-      "feature": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/sticker/s001.jpg",
-      "link": "https://github.com/TrendsBeauty/TrendsBeautyCo/blob/master/res/sticker/Pixel_Love.zip",
+      "name": "Travel",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/sticker/Travel/",
       "price": "0",
-      "size": "16",
-      "color": "#F00",
-      "demo": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/sticker/s001/"
-    },
-    {
-      "id": "s002",
-      "name": "Pixel Love 1",
-      "feature": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/sticker/s001.jpg",
-      "link": "https://github.com/TrendsBeauty/TrendsBeautyCo/blob/master/res/sticker/Pixel_Love.zip",
-      "price": "100",
-      "size": "16",
-      "color": "#FFF",
-      "demo": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/sticker/s001/"
-    },
-    {
-      "id": "s003",
-      "name": "Pixel Love 2",
-      "feature": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/sticker/s001.jpg",
-      "link": "https://github.com/TrendsBeauty/TrendsBeautyCo/blob/master/res/sticker/Pixel_Love.zip",
-      "price": "2",
-      "size": "16",
-      "color": "#FF0",
-      "demo": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/sticker/s001/"
+      "size": "28",
+      "color": "#FF0000"
     }
   ]
 }
