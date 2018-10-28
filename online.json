@@ -133,7 +133,7 @@
       "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/filter/Christmas/",
       "price": "0",
       "size": "8",
-      "color": "#00FF00"
+      "color": "#FFFFFF"
     },
     {
       "id": "f002",
@@ -141,7 +141,7 @@
       "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/filter/Glitter/",
       "price": "0",
       "size": "7",
-      "color": "#FF00FF"
+      "color": "#FFFFFF"
     },
     {
       "id": "f003",
@@ -149,7 +149,7 @@
       "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/filter/Spooky/",
       "price": "0",
       "size": "9",
-      "color": "#FF0000"
+      "color": "#FFFFFF"
     },
     {
       "id": "f004",
@@ -184,7 +184,7 @@
       "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/sticker/Travel/",
       "price": "0",
       "size": "28",
-      "color": "#FF0000"
+      "color": "#FFFFFF"
     }
   ]
 }
