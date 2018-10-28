@@ -185,6 +185,27 @@
       "price": "0",
       "size": "28",
       "color": "#FFFFFF"
+    },
+    {
+      "id": "s002",
+      "name": "Chocolate",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/sticker/Chocolate/",
+      "price": "0",
+      "size": "20"
+    },
+    {
+      "id": "s003",
+      "name": "Vacation",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/sticker/Vacation/",
+      "price": "0",
+      "size": "20"
+    },
+    {
+      "id": "s004",
+      "name": "Winter label with love",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/sticker/Winter_label/",
+      "price": "0",
+      "size": "20"
     }
   ]
 }
