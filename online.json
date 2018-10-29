@@ -10,14 +10,14 @@
   "homePageAdType": "admob",
 
   "homePageAppAdObject": {
-    "appId": "tba.selfie.photo.collage.maker",
-    "appName": "Selfie Photo Collage Maker",
-    "appUrl": "https://play.google.com/store/apps/details?id=tba.selfie.photo.collage.maker",
-    "featureUrl": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/promotion/res/graphic.png",
-    "iconUrl": "https://lh3.googleusercontent.com/QF-uZ5eXykHk6YqIiovNp9fFk4Ko_RTjzG9_ODgk3B4Swv4eOauBt30K7WDghhMn_6ys=s180-rw",
-    "link": "",
+    "appId": "trends.beauty.art.nature.art.editor",
+    "appName": "Nature Photo Frames special version",
+    "appUrl": "https://play.google.com/store/apps/details?id=trends.beauty.art.nature.art.editor",
+    "featureUrl": "https://lh3.googleusercontent.com/p_hl-D-wMQwDbkbrS86H2tziALRHeR6zCN1PVGWe3OjDLzLaZzSFz2cV7lCO01bIkgY=w2880-h1418",
+    "iconUrl": "https://lh3.googleusercontent.com/bSUndAAEHo9Grf9GunJYC5hgXjxpcXfARXYIGakxYTsR99gaHTCvV9_ItTnpRExu2WE=s360",
+    "link": "http://bit.ly/nature_photo_frame",
     "pubName": "TrendsArt",
-    "description": "Best photo collage maker & editor with 100+ layout, grid, filter, sticker and text"
+    "description": "Enjoy Nature dual photo frame to make your memories unforgettable with a lot of effect and power tool+++"
   },
 
   "promotion": [
