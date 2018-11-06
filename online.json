@@ -166,6 +166,22 @@
       "price": "0",
       "size": "14",
       "color": "#FFFFFF"
+    },
+    {
+      "id": "f006",
+      "name": "Winter_story",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/filter/Winter_story/",
+      "price": "0",
+      "size": "24",
+      "color": "#FFFFFF"
+    },
+    {
+      "id": "f007",
+      "name": "Happy_new_year",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/filter/Happy_new_year/",
+      "price": "0",
+      "size": "20",
+      "color": "#FFFFFF"
     }
   ],
 
