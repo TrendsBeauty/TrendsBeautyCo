@@ -166,22 +166,6 @@
       "price": "0",
       "size": "14",
       "color": "#FFFFFF"
-    },
-    {
-      "id": "f006",
-      "name": "Winter_story",
-      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/filter/Winter_story/",
-      "price": "0",
-      "size": "24",
-      "color": "#FFFFFF"
-    },
-    {
-      "id": "f007",
-      "name": "Happy_new_year",
-      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/filter/Happy_new_year/",
-      "price": "0",
-      "size": "20",
-      "color": "#FFFFFF"
     }
   ],
 
@@ -264,6 +248,22 @@
       "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/sticker/Black/",
       "price": "0",
       "size": "56"
+    },
+    {
+      "id": "s011",
+      "name": "Winter_story",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/sticker/Winter_story/",
+      "price": "0",
+      "size": "24",
+      "color": "#FFFFFF"
+    },
+    {
+      "id": "s012",
+      "name": "Happy_new_year",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/sticker/Happy_new_year/",
+      "price": "0",
+      "size": "20",
+      "color": "#FFFFFF"
     }
   ]
 }
