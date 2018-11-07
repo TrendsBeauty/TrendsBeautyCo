@@ -40,6 +40,12 @@
   		"key":"f001"	
   	},
   	{
+  		"title":"Winter story",
+  		"subTitle":"Sticker",
+  		"photo":"https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/sticker/Winter_story/cover",
+  		"key":"s011"	
+  	},
+  	{
   		"title":"Star on Sky",
   		"subTitle":"Filter",
   		"photo":"https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/filter/Star/cover",
