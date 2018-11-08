@@ -181,8 +181,15 @@
     }
   ],
 
-  "resFrames": [
-    {}
+  "resFrame": [
+    {
+      "id": "r001",
+      "name": "Christmas",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/frame/Christmas/",
+      "price": "0",
+      "size": "20",
+      "color": "#FFFFFF"
+    }
   ],
 
   "resPoster": [
