@@ -189,6 +189,30 @@
       "price": "0",
       "size": "20",
       "color": "#FFFFFF"
+    },
+    {
+      "id": "r002",
+      "name": "Happy_Birthday",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/frame/Happy_Birthday/",
+      "price": "0",
+      "size": "24",
+      "color": "#FFFFFF"
+    },
+    {
+      "id": "r003",
+      "name": "Mothers_Day",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/frame/Mothers_Day/",
+      "price": "0",
+      "size": "28",
+      "color": "#FFFFFF"
+    },
+    {
+      "id": "r004",
+      "name": "Summer_vacation",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/frame/Summer_vacation/",
+      "price": "0",
+      "size": "24",
+      "color": "#FFFFFF"
     }
   ],
 
