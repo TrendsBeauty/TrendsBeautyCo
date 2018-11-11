@@ -221,6 +221,14 @@
       "price": "0",
       "size": "20",
       "color": "#FFFFFF"
+    },
+    {
+      "id": "r006",
+      "name": "Valentine_frames",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/frame/Valentine_frames/",
+      "price": "0",
+      "size": "26",
+      "color": "#FFFFFF"
     }
   ],
 
