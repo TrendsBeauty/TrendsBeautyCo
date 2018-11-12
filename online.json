@@ -221,6 +221,14 @@
       "price": "0",
       "size": "20",
       "color": "#FFFFFF"
+    },
+    {
+      "id": "r006",
+      "name": "Valentine_frames",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/frame/Valentine_frames/",
+      "price": "0",
+      "size": "26",
+      "color": "#FFFFFF"
     }
   ],
 
@@ -314,6 +322,46 @@
       "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/sticker/Happy_new_year/",
       "price": "0",
       "size": "20",
+      "color": "#FFFFFF"
+    },
+    {
+      "id": "s013",
+      "name": "Sweet_dream",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/sticker/Sweet_dream/",
+      "price": "0",
+      "size": "21",
+      "color": "#FFFFFF"
+    },
+    {
+      "id": "s014",
+      "name": "Spring_time",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/sticker/Spring_time/",
+      "price": "0",
+      "size": "19",
+      "color": "#FFFFFF"
+    },
+    {
+      "id": "s015",
+      "name": "Daily_deco",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/sticker/Daily_deco/",
+      "price": "0",
+      "size": "36",
+      "color": "#FFFFFF"
+    },
+    {
+      "id": "s016",
+      "name": "Wedding_day",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/sticker/Wedding_day/",
+      "price": "0",
+      "size": "30",
+      "color": "#FFFFFF"
+    },
+    {
+      "id": "s017",
+      "name": "Pretty_girl",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/sticker/Pretty_girl/",
+      "price": "0",
+      "size": "21",
       "color": "#FFFFFF"
     }
   ]
