@@ -134,8 +134,51 @@
     {}
   ],
 
-  "resBackground": [
+ "resBackground": [
     {}
+  ],
+
+  "resPattern": [
+    {
+      "id": "p001",
+      "name": "Artistic",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/pattern/Artistic/",
+      "price": "0",
+      "size": "8",
+      "color": "#FFFFFF"
+    },
+    {
+      "id": "p002",
+      "name": "Black_and_White",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/pattern/Black_and_White/",
+      "price": "0",
+      "size": "8",
+      "color": "#FFFFFF"
+    },
+    {
+      "id": "p003",
+      "name": "Blossom",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/pattern/Blossom/",
+      "price": "0",
+      "size": "8",
+      "color": "#FFFFFF"
+    },
+    {
+      "id": "p004",
+      "name": "Boo",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/pattern/Boo/",
+      "price": "0",
+      "size": "8",
+      "color": "#FFFFFF"
+    },
+    {
+      "id": "p005",
+      "name": "Brazil_Carnival",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/pattern/Brazil_Carnival/",
+      "price": "0",
+      "size": "8",
+      "color": "#FFFFFF"
+    }
   ],
 
   "resFilter": [
