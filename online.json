@@ -178,6 +178,102 @@
       "price": "0",
       "size": "8",
       "color": "#FFFFFF"
+    },
+    {
+      "id": "p006",
+      "name": "Celebration",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/pattern/Celebration/",
+      "price": "0",
+      "size": "8",
+      "color": "#FFFFFF"
+    },
+    {
+      "id": "p007",
+      "name": "Check_Pattern",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/pattern/Check_Pattern/",
+      "price": "0",
+      "size": "8",
+      "color": "#FFFFFF"
+    },
+    {
+      "id": "p008",
+      "name": "Christmas",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/pattern/Christmas/",
+      "price": "0",
+      "size": "8",
+      "color": "#FFFFFF"
+    },
+    {
+      "id": "p009",
+      "name": "Cool_Summer",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/pattern/Cool_Summer/",
+      "price": "0",
+      "size": "8",
+      "color": "#FFFFFF"
+    },
+    {
+      "id": "p010",
+      "name": "Cute_Animals",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/pattern/Cute_Animals/",
+      "price": "0",
+      "size": "8",
+      "color": "#FFFFFF"
+    },
+    {
+      "id": "p011",
+      "name": "Deck_the_Halls",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/pattern/Deck_the_Halls/",
+      "price": "0",
+      "size": "8",
+      "color": "#FFFFFF"
+    },
+    {
+      "id": "p012",
+      "name": "Delicious",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/pattern/Delicious/",
+      "price": "0",
+      "size": "8",
+      "color": "#FFFFFF"
+    },
+    {
+      "id": "p013",
+      "name": "Emoji",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/pattern/Emoji/",
+      "price": "0",
+      "size": "8",
+      "color": "#FFFFFF"
+    },
+    {
+      "id": "p014",
+      "name": "Fabric",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/pattern/Fabric/",
+      "price": "0",
+      "size": "8",
+      "color": "#FFFFFF"
+    },
+    {
+      "id": "p015",
+      "name": "Fashion",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/pattern/Fashion/",
+      "price": "0",
+      "size": "8",
+      "color": "#FFFFFF"
+    },
+    {
+      "id": "p016",
+      "name": "Flowers_Birds",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/pattern/Flowers_Birds/",
+      "price": "0",
+      "size": "12",
+      "color": "#FFFFFF"
+    },
+    {
+      "id": "p017",
+      "name": "Flowery",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/pattern/Flowery/",
+      "price": "0",
+      "size": "8",
+      "color": "#FFFFFF"
     }
   ],
 
