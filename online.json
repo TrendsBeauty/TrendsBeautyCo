@@ -502,6 +502,46 @@
       "price": "0",
       "size": "21",
       "color": "#FFFFFF"
+    },
+    {
+      "id": "s018",
+      "name": "Black_vintage",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/sticker/Black_vintage/",
+      "price": "0",
+      "size": "21",
+      "color": "#FFFFFF"
+    },
+    {
+      "id": "s019",
+      "name": "Black_white_winter",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/sticker/Black_white_winter/",
+      "price": "0",
+      "size": "40",
+      "color": "#FFFFFF"
+    },
+    {
+      "id": "s020",
+      "name": "Xmas",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/sticker/Xmas/",
+      "price": "0",
+      "size": "40",
+      "color": "#FFFFFF"
+    },
+    {
+      "id": "s021",
+      "name": "Valentine_day",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/sticker/Valentine_day/",
+      "price": "0",
+      "size": "21",
+      "color": "#FFFFFF"
+    },
+    {
+      "id": "s022",
+      "name": "Vintage_love",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/sticker/Vintage_love/",
+      "price": "0",
+      "size": "21",
+      "color": "#FFFFFF"
     }
   ]
 }
