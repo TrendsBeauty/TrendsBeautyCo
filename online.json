@@ -5,6 +5,8 @@
     "com.packate.name.here.will.be.banned.ad"
   ],
 
+  "startAppEnable": "true",
+  
   "mainAdType": "admob",
 
   "homePageAdType": "admob",
