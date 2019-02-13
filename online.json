@@ -129,6 +129,18 @@
       "interstitialAdMob": "ca-app-pub-8471481257064175/8775093041",
       "rewardedVideoAdMob": "ca-app-pub-8471481257064175/5597716623",
       "packageName": "tba.halloween.photo.editor.scary.mask"
+    },
+    {
+      "nativeAdMob": "ca-app-pub-8471481257064175/8095048415",
+      "packageName": "trends.beauty.sweet.snap"
+    },
+    {
+      "nativeAdMob": "ca-app-pub-8471481257064175/8953792372",
+      "packageName": "tba.heart.camera.heart.crown.face.camera"
+    },
+    {
+      "nativeAdMob": "ca-app-pub-8471481257064175/4078360906",
+      "packageName": "trends.art.photo.editor.collage_and_sticker"
     }
   ],
 
