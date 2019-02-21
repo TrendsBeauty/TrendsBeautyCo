@@ -23,42 +23,42 @@
   },
 
   "promotion": [
-  	{
-  		"title":"Minni Mouse Photo Editor",
-  		"subTitle":"Sponsored",
-  		"photo":"https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/promotion/res/r003MinniMousePhotoEditor.png",
-  		"key":"http://bit.ly/TrendsArtMini"
-  	},
-  	{
-  		"title":"Fire on Photo",
-  		"subTitle":"Filter",
-  		"photo":"https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/filter/Fire/cover",
-  		"key":"f004"	
-  	},
-  	{
-  		"title":"Christmas",
-  		"subTitle":"Filter",
-  		"photo":"https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/filter/Christmas/cover",
-  		"key":"f001"	
-  	},
-  	{
-  		"title":"Winter story",
-  		"subTitle":"Sticker",
-  		"photo":"https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/sticker/Winter_story/cover",
-  		"key":"s011"	
-  	},
-  	{
-  		"title":"Star on Sky",
-  		"subTitle":"Filter",
-  		"photo":"https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/filter/Star/cover",
-  		"key":"f005"	
-  	},
-  	{
-  		"title":"Black art",
-  		"subTitle":"Sticker",
-  		"photo":"https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/sticker/Black/cover",
-  		"key":"s010"	
-  	}
+    {
+      "title":"Light Crown Photo Editor",
+      "subTitle":"Sponsored",
+      "photo":"https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/promotion/res/graphic_light.png",
+      "key":"http://bit.ly/tbalight"
+    },
+    {
+      "title":"Fire on Photo",
+      "subTitle":"Filter",
+      "photo":"https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/filter/Fire/cover",
+      "key":"f004"  
+    },
+    {
+      "title":"Christmas",
+      "subTitle":"Filter",
+      "photo":"https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/filter/Christmas/cover",
+      "key":"f001"  
+    },
+    {
+      "title":"Winter story",
+      "subTitle":"Sticker",
+      "photo":"https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/sticker/Winter_story/cover",
+      "key":"s011"  
+    },
+    {
+      "title":"Star on Sky",
+      "subTitle":"Filter",
+      "photo":"https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/filter/Star/cover",
+      "key":"f005"  
+    },
+    {
+      "title":"Black art",
+      "subTitle":"Sticker",
+      "photo":"https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/sticker/Black/cover",
+      "key":"s010"  
+    }
   ],
 
   "adsCollectionEnable": "false",
