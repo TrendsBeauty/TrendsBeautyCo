@@ -141,6 +141,13 @@
     {
       "nativeAdMob": "ca-app-pub-8471481257064175/4078360906",
       "packageName": "trends.art.photo.editor.collage_and_sticker"
+    },
+    {
+      "packageName": "trends.beauty.split.camera.collage.maker",
+      "bannerAdMob": "ca-app-pub-8471481257064175/9024009672",
+      "interstitialAdMob": "ca-app-pub-8471481257064175/9810477738",
+      "nativeAdMob": "ca-app-pub-8471481257064175/5847181993",
+      "rewardedVideoAdMob": "ca-app-pub-8471481257064175/3552546367"
     }
   ],
 
