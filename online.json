@@ -148,6 +148,13 @@
       "interstitialAdMob": "ca-app-pub-8471481257064175/9810477738",
       "nativeAdMob": "ca-app-pub-8471481257064175/5847181993",
       "rewardedVideoAdMob": "ca-app-pub-8471481257064175/3552546367"
+    },
+    {
+      "packageName": "tba.selfie.camera.filter",
+      "bannerAdMob": "ca-app-pub-8471481257064175/1494410922",
+      "interstitialAdMob": "ca-app-pub-8471481257064175/5619264864",
+      "nativeAdMob": "ca-app-pub-8471481257064175/1564469782",
+      "rewardedVideoAdMob": "ca-app-pub-8471481257064175/3737430889"
     }
   ],
 
