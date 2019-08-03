@@ -155,6 +155,20 @@
       "interstitialAdMob": "ca-app-pub-8471481257064175/5619264864",
       "nativeAdMob": "ca-app-pub-8471481257064175/1564469782",
       "rewardedVideoAdMob": "ca-app-pub-8471481257064175/3737430889"
+    },
+    {
+      "packageName": "tba.garden.photo.frames",
+      "bannerAdMob": "ca-app-pub-8471481257064175/8347965011",
+      "interstitialAdMob": "ca-app-pub-8471481257064175/5143217172",
+      "nativeAdMob": "ca-app-pub-8471481257064175/8890890498",
+      "rewardedVideoAdMob": "ca-app-pub-8471481257064175/8945417735"
+    },
+    {
+      "packageName": "trends.beauty.filter4selfie",
+      "bannerAdMob": "ca-app-pub-8471481257064175/9077279674",
+      "interstitialAdMob": "ca-app-pub-8471481257064175/3441809615",
+      "nativeAdMob": "ca-app-pub-8471481257064175/7381054628",
+      "rewardedVideoAdMob": "ca-app-pub-8471481257064175/2511871324"
     }
   ],
 
