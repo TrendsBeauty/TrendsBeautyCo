@@ -169,6 +169,13 @@
       "interstitialAdMob": "ca-app-pub-8471481257064175/3441809615",
       "nativeAdMob": "ca-app-pub-8471481257064175/7381054628",
       "rewardedVideoAdMob": "ca-app-pub-8471481257064175/2511871324"
+    },
+    {
+      "packageName": "trends.beauty.art.face.sweet.camera",
+      "bannerAdMob": "ca-app-pub-8471481257064175/8121971406",
+      "interstitialAdMob": "ca-app-pub-8471481257064175/7247873431",
+      "nativeAdMob": "ca-app-pub-8471481257064175/1337550135",
+      "rewardedVideoAdMob": "ca-app-pub-8471481257064175/6617318044"
     }
   ],
 
