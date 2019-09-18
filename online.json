@@ -327,6 +327,14 @@
   ],
 
   "resFilter": [
+  	{
+      "id": "f006",
+      "name": "Glitch",
+      "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/filter/Glitch/",
+      "price": "0",
+      "size": "50",
+      "color": "#FFFFFF"
+    },
     {
       "id": "f001",
       "name": "Christmas",
