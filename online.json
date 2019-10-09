@@ -131,8 +131,12 @@
       "packageName": "tba.halloween.photo.editor.scary.mask"
     },
     {
-      "nativeAdMob": "ca-app-pub-8471481257064175/8095048415",
-      "packageName": "trends.beauty.sweet.snap"
+      "packageName": "trends.beauty.sweet.snap",
+      "bannerFAN": "2490311697716185_2490315191049169",
+      "homePageAdType": "fan",
+      "interstitialFAN": "2490311697716185_2490316087715746",
+      "mainAdType": "fan", 
+      "nativeFAN": "2490311697716185_2490313537716001"
     },
     {
       "nativeAdMob": "ca-app-pub-8471481257064175/8953792372",
