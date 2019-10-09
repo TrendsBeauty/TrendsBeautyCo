@@ -133,9 +133,9 @@
     {
       "packageName": "trends.beauty.sweet.snap",
       "bannerFAN": "2490311697716185_2490315191049169",
-      "homePageAdType": "fan",
+      "homePageAdType": "admob",
       "interstitialFAN": "2490311697716185_2490316087715746",
-      "mainAdType": "fan", 
+      "mainAdType": "admob", 
       "nativeFAN": "2490311697716185_2490313537716001"
     },
     {
@@ -179,7 +179,13 @@
       "bannerAdMob": "ca-app-pub-8471481257064175/8121971406",
       "interstitialAdMob": "ca-app-pub-8471481257064175/7247873431",
       "nativeAdMob": "ca-app-pub-8471481257064175/1337550135",
-      "rewardedVideoAdMob": "ca-app-pub-8471481257064175/6617318044"
+      "rewardedVideoAdMob": "ca-app-pub-8471481257064175/6617318044",
+      
+      "bannerFAN": "390238548552545_390239505219116",
+      "homePageAdType": "fan",
+      "interstitialFAN": "390238548552545_390239315219135",
+      "mainAdType": "fan", 
+      "nativeFAN": "390238548552545_390238928552507"
     }
   ],
 
