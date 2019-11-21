@@ -12,14 +12,14 @@
   "homePageAdType": "admob",
 
   "homePageAppAdObject": {
-    "appId": "tba.garden.photo.frames",
-    "appName": "Garden Photo Frames",
+    "appId": "pcm.face.emoji.photo.editor",
+    "appName": "Face Emoji Photo Editor",
     "appUrl": "",
-    "featureUrl": "https://lh3.googleusercontent.com/c2OSG6YBpHJtbL0t5qjkF6CsAj_fFB8YcH_NdpvACXDYRPZpy4ETsyBYBwvrwzMdu94=w1440-h620",
-    "iconUrl": "https://lh3.googleusercontent.com/Y_J1FAQtczZCDNkt5E3kQwPYEXVPM-XIE8ECRDxqjs9CfNdBu0V4OVxW5C_mQrkRdVE=s360",
+    "featureUrl": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/promotion/res/graphice.png",
+    "iconUrl": "https://lh3.googleusercontent.com/oUumwu8K50ptpuE8xZO5cIzRoR32sez8sIgZGmZ7L260ASxpRoNQCUFqzdJDnnb9ZA=s360-rw",
     "link": "",
-    "pubName": "TrendsArt",
-    "description": "Make your photo more beautiful with garden photo frames."
+    "pubName": "Photo collage Master",
+    "description": "Face Emoji Stickers is fast and easy to use app to create amazing emoji background effect pictures."
   },
 
   "promotion": [
