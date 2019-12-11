@@ -139,8 +139,10 @@
       "nativeFAN": "2490311697716185_2490313537716001"
     },
     {
+      "packageName": "tba.heart.camera.heart.crown.face.camera",
       "nativeAdMob": "ca-app-pub-8471481257064175/8953792372",
-      "packageName": "tba.heart.camera.heart.crown.face.camera"
+      "nativeFAN": "579211026176198_579211499509484",
+      "homePageAdType": "fan"
     },
     {
       "nativeAdMob": "ca-app-pub-8471481257064175/4078360906",
@@ -337,7 +339,7 @@
   ],
 
   "resFilter": [
-  	{
+    {
       "id": "f006",
       "name": "Glitch",
       "link": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/filter/Glitch/",
