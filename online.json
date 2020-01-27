@@ -176,8 +176,8 @@
       "nativeAdMob": "ca-app-pub-8471481257064175/7381054628",
       "rewardedVideoAdMob": "ca-app-pub-8471481257064175/2511871324",
       "bannerFAN": "487436801964877_487437461964811",
-      "mainAdType": "fan",
-      "homePageAdType": "fan",
+      "mainAdType": "admob",
+      "homePageAdType": "admob",
       "interstitialFAN": "487436801964877_487437218631502",
       "nativeFAN": "487436801964877_487437061964851"
     },
