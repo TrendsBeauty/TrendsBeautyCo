@@ -195,6 +195,14 @@
       "nativeFAN": "390238548552545_390238928552507"
     },
     {
+      "packageName": "trends.art.photo.editor.collage_and_sticker", 
+      "mainAdType": "admob", 
+      "homePageAdType": "admob",
+      "bannerFAN": "2458619081072233_2458722007728607",
+      "interstitialFAN": "2458619081072233_2458723314395143",
+      "nativeFAN": "2458619081072233_2458619581072183"
+    },
+    {
       "packageName": "trends.beauty.hairstyles.editor",
       "bannerAdMob": "ca-app-pub-8471481257064175/5396829938",
       "interstitialAdMob": "ca-app-pub-8471481257064175/9340229785",
