@@ -145,10 +145,6 @@
       "homePageAdType": "admob"
     },
     {
-      "nativeAdMob": "ca-app-pub-8471481257064175/4078360906",
-      "packageName": "trends.art.photo.editor.collage_and_sticker"
-    },
-    {
       "packageName": "trends.beauty.split.camera.collage.maker",
       "bannerAdMob": "ca-app-pub-8471481257064175/9024009672",
       "interstitialAdMob": "ca-app-pub-8471481257064175/9810477738",
@@ -176,8 +172,8 @@
       "nativeAdMob": "ca-app-pub-8471481257064175/7381054628",
       "rewardedVideoAdMob": "ca-app-pub-8471481257064175/2511871324",
       "bannerFAN": "487436801964877_487437461964811",
-      "mainAdType": "admob",
-      "homePageAdType": "admob",
+      "mainAdType": "fan",
+      "homePageAdType": "fan",
       "interstitialFAN": "487436801964877_487437218631502",
       "nativeFAN": "487436801964877_487437061964851"
     },
@@ -189,18 +185,19 @@
       "rewardedVideoAdMob": "ca-app-pub-8471481257064175/6617318044",
       
       "bannerFAN": "390238548552545_390239505219116",
-      "homePageAdType": "admob",
+      "homePageAdType": "fan",
       "interstitialFAN": "390238548552545_390239315219135",
-      "mainAdType": "admob", 
+      "mainAdType": "fan", 
       "nativeFAN": "390238548552545_390238928552507"
     },
     {
       "packageName": "trends.art.photo.editor.collage_and_sticker", 
       "mainAdType": "admob", 
-      "homePageAdType": "admob",
+      "homePageAdType": "fan",
       "bannerFAN": "2458619081072233_2458722007728607",
       "interstitialFAN": "2458619081072233_2458723314395143",
-      "nativeFAN": "2458619081072233_2458619581072183"
+      "nativeFAN": "2458619081072233_2458619581072183",
+      "nativeAdMob": "ca-app-pub-8471481257064175/4078360906"
     },
     {
       "packageName": "trends.beauty.hairstyles.editor",
