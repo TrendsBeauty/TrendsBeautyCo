@@ -12,14 +12,14 @@
   "homePageAdType": "admob",
 
   "homePageAppAdObject": {
-    "appId": "pcm.face.emoji.photo.editor",
-    "appName": "Face Emoji Photo Editor",
+    "appId": "pcm.face.filter.editor.collage",
+    "appName": "Filters for Snapchat",
     "appUrl": "",
-    "featureUrl": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/promotion/res/graphice.png",
-    "iconUrl": "https://lh3.googleusercontent.com/oUumwu8K50ptpuE8xZO5cIzRoR32sez8sIgZGmZ7L260ASxpRoNQCUFqzdJDnnb9ZA=s360-rw",
+    "featureUrl": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/promotion/res/f4sc.png",
+    "iconUrl": "https://lh3.googleusercontent.com/0ZkJRBI6frJZ5nnCdNb58QhpIcECXp2kRlM25cUk8c0-EzZeloeonk6bLMwCOuFUCPM=s360-rw",
     "link": "",
     "pubName": "Photo collage Master",
-    "description": "Face Emoji Stickers is fast and easy to use app to create amazing emoji background effect pictures."
+    "description": "Sweet Filter app make fantastic photos with sweet face effect."
   },
 
   "promotion": [
