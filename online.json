@@ -12,14 +12,14 @@
   "homePageAdType": "admob",
 
   "homePageAppAdObject": {
-    "appId": "pcm.art.heart.camera",
-    "appName": "Heart Camera",
+    "appId": "pcm.face.filter.editor.collage",
+    "appName": "Filters for Sefiles",
     "appUrl": "",
-    "featureUrl": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/promotion/res/r003MinniMousePhotoEditor.png",
-    "iconUrl": "https://lh3.googleusercontent.com/VFgx0QAazPoGQh4aY91QVh9oowx9OyaNsIeVUvMTMxVF6tjXrSwtUJo3u3eAqWtWIw=s360-rw",
+    "featureUrl": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/promotion/res/f4sc.png",
+    "iconUrl": "https://lh3.googleusercontent.com/0ZkJRBI6frJZ5nnCdNb58QhpIcECXp2kRlM25cUk8c0-EzZeloeonk6bLMwCOuFUCPM=s360-rw",
     "link": "",
     "pubName": "Photo collage Master",
-    "description": "Has given you the chance to look cute girl with hundred of heart Camera effect, flower crown, dog face camera, cat stickers.."
+    "description": "Sweet Filter app make fantastic photos with sweet face effect."
   },
 
   "promotion": [
