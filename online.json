@@ -133,9 +133,9 @@
     {
       "packageName": "trends.beauty.sweet.snap",
       "bannerFAN": "2490311697716185_2490315191049169",
-      "homePageAdType": "admob",
+      "homePageAdType": "FAN",
       "interstitialFAN": "2490311697716185_2490316087715746",
-      "mainAdType": "admob", 
+      "mainAdType": "FAN", 
       "nativeFAN": "2490311697716185_2490313537716001"
     },
     {
