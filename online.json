@@ -12,14 +12,14 @@
   "homePageAdType": "admob",
 
   "homePageAppAdObject": {
-    "appId": "beauty.picshop.sweet.snap.live.filter.camera",
-    "appName": "Sweet Face Camera",
+    "appId": "pcm.face.filter.editor.collage",
+    "appName": "Filters for Sefiles",
     "appUrl": "",
     "featureUrl": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/promotion/res/f4sc.png",
-    "iconUrl": "https://lh3.googleusercontent.com/K2ytGb_6_dKXTVRAhTbQWTH6ofkgX3k7CqzfhOS2fWOh_puDJx1j1KeegrW6_kEsqfwX=s360-rw",
+    "iconUrl": "https://lh3.googleusercontent.com/0ZkJRBI6frJZ5nnCdNb58QhpIcECXp2kRlM25cUk8c0-EzZeloeonk6bLMwCOuFUCPM=s360-rw",
     "link": "",
-    "pubName": "Beauty Sweet Picshop",
-    "description": "Transform yourself into a charming queen in pictures or al look like a cute girl within few seconds."
+    "pubName": "Photo collage Master",
+    "description": "Sweet Filter app make fantastic photos with sweet face effect."
   },
 
   "promotion": [
