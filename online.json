@@ -193,11 +193,11 @@
     {
       "packageName": "trends.art.photo.editor.collage_and_sticker", 
       "mainAdType": "admob", 
-      "homePageAdType": "fan",
-      "bannerFAN": "2458619081072233_2458722007728607",
-      "interstitialFAN": "2458619081072233_2458723314395143",
-      "nativeFAN": "2458619081072233_2458619581072183",
-      "nativeAdMob": "ca-app-pub-8471481257064175/4078360906"
+      "homePageAdType": "admob",
+       "bannerAdMob": "ca-app-pub-2568269977054041/8527348478",
+      "interstitialAdMob": "ca-app-pub-2568269977054041/9916451765",
+      "nativeAdMob": "ca-app-pub-2568269977054041/7326232852",
+      "rewardedVideoAdMob": "ca-app-pub-2568269977054041/7290288424"
     },
     {
       "packageName": "trends.beauty.hairstyles.editor",
