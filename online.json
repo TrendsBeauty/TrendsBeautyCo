@@ -169,15 +169,13 @@
     },
     {
       "packageName": "trends.beauty.filter4selfie",
-      "bannerAdMob": "ca-app-pub-8471481257064175/9077279674",
-      "interstitialAdMob": "ca-app-pub-8471481257064175/3441809615",
-      "nativeAdMob": "ca-app-pub-8471481257064175/7381054628",
-      "rewardedVideoAdMob": "ca-app-pub-8471481257064175/2511871324",
+      "bannerAdMob": "ca-app-pub-2568269977054041/1243754827",
+      "interstitialAdMob": "ca-app-pub-2568269977054041/7617591482",
+      "rewardedVideoAdMob": "ca-app-pub-2568269977054041/2720488026",
+      "nativeAdMob": "ca-app-pub-2568269977054041/4991428144",
       "bannerFAN": "487436801964877_487437461964811",
       "mainAdType": "admob",
-      "homePageAdType": "admob",
-      "interstitialFAN": "487436801964877_487437218631502",
-      "nativeFAN": "487436801964877_487437061964851"
+      "homePageAdType": "admob"
     },
     {
       "packageName": "trends.beauty.art.face.sweet.camera",
