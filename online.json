@@ -140,8 +140,10 @@
     },
     {
       "packageName": "tba.heart.camera.heart.crown.face.camera",
-      "nativeAdMob": "ca-app-pub-8471481257064175/8953792372",
-      "nativeFAN": "579211026176198_579211499509484",
+       "bannerAdMob": "ca-app-pub-2568269977054041/3131551563",
+      "interstitialAdMob": "ca-app-pub-2568269977054041/1818469896",
+      "nativeAdMob": "ca-app-pub-2568269977054041/3103631402",
+      "rewardedVideoAdMob": "ca-app-pub-2568269977054041/4416713070",
       "homePageAdType": "admob"
     },
     {
