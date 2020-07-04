@@ -212,6 +212,13 @@
       "interstitialAdMob": "ca-app-pub-8471481257064175/9747423898",
       "nativeAdMob": "ca-app-pub-8471481257064175/4495097212",
       "rewardedVideoAdMob": "ca-app-pub-8471481257064175/5808178884"
+    },
+    {
+      "packageName": "trends.beauty.art.nature.art.editor",
+      "bannerAdMob": "ca-app-pub-2528447488358561/6964104925",
+      "interstitialAdMob": "ca-app-pub-2528447488358561/4337941586",
+      "nativeAdMob": "ca-app-pub-2528447488358561/5459451567",
+      "rewardedVideoAdMob": "ca-app-pub-2528447488358561/1711778248"
     }
   ],
 
