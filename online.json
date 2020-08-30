@@ -15,7 +15,7 @@
     "appId": "sam.selfie.camera.filters.sweet.snap",
     "appName": "Selfie Camera Filters",
     "appUrl": "",
-    "featureUrl": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/promotion/res/f4sc.png",
+    "featureUrl": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/promotion/res/adabc.png",
     "iconUrl": "https://lh3.googleusercontent.com/n1PBVMGU59Kn-cq1himfCR7gUxQZA5chwf_xZB_bom_l1YXKq97G7aSC1tA-c9iEUuWT=s360-rw",
     "link": "",
     "pubName": "Sweet Art Master",
@@ -23,6 +23,12 @@
   },
 
   "promotion": [
+     {
+      "title":"Selfie Camera Filters",
+      "subTitle":"HOT",
+      "photo":"https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/promotion/res/adabc.png",
+      "key":"https://play.google.com/store/apps/details?id=sam.selfie.camera.filters.sweet.snap"
+    },
     {
       "title":"Light Crown Photo Editor",
       "subTitle":"Sponsored",
@@ -30,7 +36,7 @@
       "key":"https://play.google.com/store/apps/details?id=pcm.light.crown.photo.editor"
     },
     {
-      "title":"Filters for Snapchat - We move here",
+      "title":"Filters 4 Snapchat - ALL NEW",
       "subTitle":"Sponsored",
       "photo":"https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/promotion/res/f4sc.png",
       "key":"https://play.google.com/store/apps/details?id=sweet.art.master.filter4s_nap_c_hat"
@@ -40,24 +46,6 @@
       "subTitle":"Sponsored",
       "photo":"https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/promotion/res/swbl.png",
       "key":"https://play.google.com/store/apps/details?id=sweet.art.master.sweet.beauty.camera"
-    },
-    {
-      "title":"Winter story",
-      "subTitle":"Sticker",
-      "photo":"https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/sticker/Winter_story/cover",
-      "key":"s011"  
-    },
-    {
-      "title":"Star on Sky",
-      "subTitle":"Filter",
-      "photo":"https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/filter/Star/cover",
-      "key":"f005"  
-    },
-    {
-      "title":"Black art",
-      "subTitle":"Sticker",
-      "photo":"https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/sticker/Black/cover",
-      "key":"s010"  
     }
   ],
 
