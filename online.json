@@ -12,14 +12,14 @@
   "homePageAdType": "admob",
 
   "homePageAppAdObject": {
-    "appId": "sweet.art.master.filter4s_nap_c_hat",
-    "appName": "Filters for Snapchat",
+    "appId": "sam.selfie.camera.filters.sweet.snap",
+    "appName": "Selfie Camera Filters",
     "appUrl": "",
     "featureUrl": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/promotion/res/f4sc.png",
     "iconUrl": "https://lh3.googleusercontent.com/B5e2HBp7CPTtJIUHrk5Et-lHj5EYHh6Fisx9SSKG0n6wRXfjc_E3buUqLMV_Io2GrQ=s360-rw",
     "link": "",
     "pubName": "Sweet Art Master",
-    "description": "Sweet Filter app make fantastic photos with sweet face effect."
+    "description": "Sweet Snap Selfie Camera edit your photo to look cute girl with hundred of heart crown effect, cat stickers..."
   },
 
   "promotion": [
@@ -61,25 +61,25 @@
     }
   ],
 
-  "adsCollectionEnable": "false",
+  "adsCollectionEnable": "true",
   "adsCollection": [
     {
       "linkUrl": "https://goo.gl/abHMFy",
       "photoUrl": "https://lh3.googleusercontent.com/gyQDawrDTq9kbT5ugcvQPj8Tnh8LYGPfP6NsN0z0fUpzNDrNZYFTQMXYoE6DKNKCEms=w300",
-      "text": "Makeup Camera 1"
+      "text": "Makeup Camera"
     },
     {
-      "linkUrl": "https://goo.gl/abHMFy",
-      "photoUrl": "https://lh3.googleusercontent.com/gyQDawrDTq9kbT5ugcvQPj8Tnh8LYGPfP6NsN0z0fUpzNDrNZYFTQMXYoE6DKNKCEms=w300",
-      "text": "Makeup Camera 2"
+      "linkUrl": "https://play.google.com/store/apps/details?id=sweet.art.master.split.camera",
+      "photoUrl": "https://lh3.googleusercontent.com/VTxQia-zhudq64ozOEePjYXL5meszn_6R3uClDBoQn1kHR4F5SxJcOswa2_V9tHxHow-=s360-rw",
+      "text": "Split Camera"
     },
     {
-      "linkUrl": "https://goo.gl/abHMFy",
-      "photoUrl": "https://lh3.googleusercontent.com/gyQDawrDTq9kbT5ugcvQPj8Tnh8LYGPfP6NsN0z0fUpzNDrNZYFTQMXYoE6DKNKCEms=w300",
-      "text": "Makeup Camera 3"
+      "linkUrl": "https://play.google.com/store/apps/details?id=sam.heart.crown.face.camera.crown.heart.emoji",
+      "photoUrl": "https://lh3.googleusercontent.com/yEpjCsvdVSdhePKPaPh7zmxHZExlAcWCYB_X3AQnA1Nf_QlJ6nBDN7bQRX2eBtw3oWXq=s360-rw",
+      "text": "Crown Heart Emoji Camera"
     }
   ],
-  "showAdLabel":"true",
+  "showAdLabel":"false",
 
   "showEditorBanner": "1",
   "showEditorBannerTip": "0: Hide, 1: Show Banner, 2: Show Smart Banner, other: use default",
