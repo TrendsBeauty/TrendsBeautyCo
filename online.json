@@ -16,7 +16,7 @@
     "appName": "Selfie Camera Filters",
     "appUrl": "",
     "featureUrl": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/promotion/res/f4sc.png",
-    "iconUrl": "https://lh3.googleusercontent.com/B5e2HBp7CPTtJIUHrk5Et-lHj5EYHh6Fisx9SSKG0n6wRXfjc_E3buUqLMV_Io2GrQ=s360-rw",
+    "iconUrl": "https://lh3.googleusercontent.com/n1PBVMGU59Kn-cq1himfCR7gUxQZA5chwf_xZB_bom_l1YXKq97G7aSC1tA-c9iEUuWT=s360-rw",
     "link": "",
     "pubName": "Sweet Art Master",
     "description": "Sweet Snap Selfie Camera edit your photo to look cute girl with hundred of heart crown effect, cat stickers..."
@@ -64,9 +64,9 @@
   "adsCollectionEnable": "true",
   "adsCollection": [
     {
-      "linkUrl": "https://goo.gl/abHMFy",
-      "photoUrl": "https://lh3.googleusercontent.com/gyQDawrDTq9kbT5ugcvQPj8Tnh8LYGPfP6NsN0z0fUpzNDrNZYFTQMXYoE6DKNKCEms=w300",
-      "text": "Makeup Camera"
+      "linkUrl": "https://play.google.com/store/apps/details?id=live.face.beauty.filter.forsnapchat",
+      "photoUrl": "https://lh3.googleusercontent.com/hvkIhw4pPDmdSz-43bY9478IAiJWRpWkjYXKVu16lwsg6j5LnxujOZr4GT3r6vdcX84=s360-rw",
+      "text": "Filters 4 Snapchat"
     },
     {
       "linkUrl": "https://play.google.com/store/apps/details?id=sweet.art.master.split.camera",
@@ -76,7 +76,7 @@
     {
       "linkUrl": "https://play.google.com/store/apps/details?id=sam.heart.crown.face.camera.crown.heart.emoji",
       "photoUrl": "https://lh3.googleusercontent.com/yEpjCsvdVSdhePKPaPh7zmxHZExlAcWCYB_X3AQnA1Nf_QlJ6nBDN7bQRX2eBtw3oWXq=s360-rw",
-      "text": "Crown Heart Emoji Camera"
+      "text": "Crown Heart"
     }
   ],
   "showAdLabel":"false",
