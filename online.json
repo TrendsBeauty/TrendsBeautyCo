@@ -23,6 +23,12 @@
   },
 
   "promotion": [
+    {
+      "title":"Sweet Camera Offline",
+      "subTitle":"HOT",
+      "photo":"https://raw.githubusercontent.com/premiumphotostudio/storage/master/livefacegraphic.png",
+      "key":"https://play.google.com/store/apps/details?id=live.face.beauty.sticker.sweet.camera"
+    },
      {
       "title":"Selfie Camera Filters",
       "subTitle":"HOT",
