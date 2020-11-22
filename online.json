@@ -23,36 +23,35 @@
   },
 
   "promotion": [
+
+     {
+      "title":"Selfie Camera Filters",
+      "subTitle":"HOT",
+      "photo":"https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/promotion/res/adabc.png",
+      "key":"https://play.google.com/store/apps/details?id=scf.selfie.camera.filters.sweet.snap"
+    },
+
     {
       "title":"Sweet Camera Offline",
       "subTitle":"HOT",
       "photo":"https://raw.githubusercontent.com/premiumphotostudio/storage/master/livefacegraphic.png",
       "key":"https://play.google.com/store/apps/details?id=live.face.beauty.sticker.sweet.camera"
     },
-     {
-      "title":"Selfie Camera Filters",
-      "subTitle":"HOT",
-      "photo":"https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/promotion/res/adabc.png",
-      "key":"https://play.google.com/store/apps/details?id=sam.selfie.camera.filters.sweet.snap"
-    },
+
     {
       "title":"Light Crown Photo Editor",
       "subTitle":"Sponsored",
       "photo":"https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/promotion/res/graphic_light.png",
       "key":"https://play.google.com/store/apps/details?id=pcm.light.crown.photo.editor"
     },
-    {
-      "title":"Filters 4 Snapchat - ALL NEW",
-      "subTitle":"Sponsored",
-      "photo":"https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/promotion/res/f4sc.png",
-      "key":"https://play.google.com/store/apps/details?id=sweet.art.master.filter4s_nap_c_hat"
-    },
-    {
-       "title":"Sweet Snap - selfie Photo Editor, filter effect",
-      "subTitle":"Sponsored",
-      "photo":"https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/promotion/res/swbl.png",
-      "key":"https://play.google.com/store/apps/details?id=sweet.art.master.sweet.beauty.camera"
+
+     {
+      "title":"Selfie Camera Filters",
+      "subTitle":"HOT",
+      "photo":"https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/promotion/res/adabc.png",
+      "key":"https://play.google.com/store/apps/details?id=scf.selfie.camera.filters.sweet.snap"
     }
+
   ],
 
   "adsCollectionEnable": "true",
