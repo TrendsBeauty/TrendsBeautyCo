@@ -12,14 +12,14 @@
   "homePageAdType": "admob",
 
   "homePageAppAdObject": {
-    "appId": "live.face.beauty.sticker.sweet.camera",
-    "appName": "Live Face Sticker Sweet Camera",
+    "appId": "scf.selfie.camera.filters.sweet.snap",
+    "appName": "Selfie Camera Filters",
     "appUrl": "",
     "featureUrl": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/promotion/res/adabc.png",
-    "iconUrl": "https://play-lh.googleusercontent.com/IjhMBsah5FH19uXVGkneJWagZFXGwtCVe01whfkjSkWM8PAhXGBN0AO68xb-1UgwWZY=s360-rw",
+    "iconUrl": "https://play-lh.googleusercontent.com/IGgEaXWqxd8b5iF4-9aTS9VSwwFysVcjByAfzo6iuMdLHnyF_F4IuWoa8xNY67S0ujDZ=s180-rw",
     "link": "",
-    "pubName": "Live Face Beauty",
-    "description": "You can add funny stickers for Selfie photo: Heart Crown , Filters Crown , Cute Rabbit , Doggy Face , snappy photo , and coachella."
+    "pubName": "Sweet Snap Selfie Camera",
+    "description": "You can add funny stickers for Selfie photo: Heart Crown, Filters Crown, Cute Rabbit, Doggy Face.."
   },
 
   "promotion": [
