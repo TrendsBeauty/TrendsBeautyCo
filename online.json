@@ -12,14 +12,14 @@
   "homePageAdType": "admob",
 
   "homePageAppAdObject": {
-    "appId": "scf.selfie.camera.filters.sweet.snap",
-    "appName": "Selfie Camera Filters",
+    "appId": "live.face.beauty.sticker.sweet.camera",
+    "appName": "Live Face Sticker Sweet Camera",
     "appUrl": "",
     "featureUrl": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/promotion/res/adabc.png",
-    "iconUrl": "https://play-lh.googleusercontent.com/IGgEaXWqxd8b5iF4-9aTS9VSwwFysVcjByAfzo6iuMdLHnyF_F4IuWoa8xNY67S0ujDZ=s180-rw",
+    "iconUrl": "https://play-lh.googleusercontent.com/IjhMBsah5FH19uXVGkneJWagZFXGwtCVe01whfkjSkWM8PAhXGBN0AO68xb-1UgwWZY=s360-rw",
     "link": "",
-    "pubName": "Sweet Snap Selfie Camera",
-    "description": "You can add funny stickers for Selfie photo: Heart Crown, Filters Crown, Cute Rabbit, Doggy Face.."
+    "pubName": "Live Face Beauty",
+    "description": "You can add funny stickers for Selfie photo: Heart Crown , Filters Crown , Cute Rabbit , Doggy Face , snappy photo , and coachella."
   },
 
   "promotion": [
@@ -29,29 +29,23 @@
       "photo":"https://raw.githubusercontent.com/premiumphotostudio/storage/master/livefacegraphic.png",
       "key":"https://play.google.com/store/apps/details?id=live.face.beauty.sticker.sweet.camera"
     },
-     {
-      "title":"Selfie Camera Filters",
-      "subTitle":"HOT",
-      "photo":"https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/promotion/res/adabc.png",
-      "key":"https://play.google.com/store/apps/details?id=sam.selfie.camera.filters.sweet.snap"
-    },
     {
       "title":"Light Crown Photo Editor",
-      "subTitle":"Sponsored",
+      "subTitle":"Live Face Beauty",
       "photo":"https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/promotion/res/graphic_light.png",
       "key":"https://play.google.com/store/apps/details?id=pcm.light.crown.photo.editor"
     },
     {
-      "title":"Filters 4 Snapchat - ALL NEW",
+      "title":"Sweet Snap Beauty Camera",
       "subTitle":"Sponsored",
       "photo":"https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/promotion/res/f4sc.png",
-      "key":"https://play.google.com/store/apps/details?id=sweet.art.master.filter4s_nap_c_hat"
+      "key":"https://play.google.com/store/apps/details?id=live.face.beauty.sweet.snap_beauty.camera"
     },
     {
-       "title":"Sweet Snap - selfie Photo Editor, filter effect",
-      "subTitle":"Sponsored",
+       "title":"Filters for Snapchat",
+      "subTitle":"Live Face Beauty",
       "photo":"https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/promotion/res/swbl.png",
-      "key":"https://play.google.com/store/apps/details?id=sweet.art.master.sweet.beauty.camera"
+      "key":"https://play.google.com/store/apps/details?id=live.face.beauty.filter.forsnapchat"
     }
   ],
 
